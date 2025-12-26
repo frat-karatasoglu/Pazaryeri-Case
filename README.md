@@ -1,5 +1,5 @@
 ﻿#  Meşhur Pazaryeri - Frontend Case Study
-
+> **🔥 Canlı Demo:** [Projeyi İncelemek İçin Tıkla](https://pazaryeri-case-k2r9-iexk1haik-firat-karatasoglus-projects.vercel.app/)
 Bu proje, **Next.js 16 (App Router)** ve modern frontend teknolojileri kullanılarak geliştirilmiş, ölçeklenebilir ve performans odaklı bir pazaryeri uygulamasıdır.
 
 ##  Teknolojiler ve Mimari Kararlar
